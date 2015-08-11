@@ -8,7 +8,7 @@ Instalação
 -----------
 
 ```bash
-git clone https://github.com/wladek29/Minifit-CSS-In-python.git
+git clone https://github.com/wladek29/minifit-with-python.git
 ```
 CSS
 ```bash
@@ -35,7 +35,7 @@ Install
 --------
 
 ```bash
-    git clone https://github.com/wladek29/Minifit-CSS-In-python.git
+    git clone https://github.com/wladek29/minifit-with-python.git
 ```
 CSS
 ```bash
