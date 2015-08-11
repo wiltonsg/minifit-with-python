@@ -10,13 +10,9 @@ Instalação
 ```bash
 git clone https://github.com/wladek29/minifit-with-python.git
 ```
-CSS
+CSS e JS
 ```bash
-python minifit_css.py bootstrap.css ...(mais arquivos css se quiser)
-```
-JS
-```bash
-python minifit_js.py bootstrap.css ...(mais arquivos js se quiser)
+python minifit.py bootstrap.css script.js ...(mais arquivos css se quiser)
 ```
 
 O resultado: ele vai gerar um arquivo bootstrap.min.css no mesmo diretório do arquivo "minifit-with-python".
@@ -37,13 +33,9 @@ Install
 ```bash
     git clone https://github.com/wladek29/minifit-with-python.git
 ```
-CSS
+CSS and JS
 ```bash
-    python minifit_css.py bootstrap.css ...(more css files if you want)
-```
-JS
-```bash
-python minifit_js.py bootstrap.css ...(more js files if you want)
+    python minifit_css.py bootstrap.css script.js ...(more css files if you want)
 ```
 
 The result: it will generate a bootstrap.min.css file in the same directory "minifit-with-python" file.
