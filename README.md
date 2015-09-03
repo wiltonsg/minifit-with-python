@@ -35,7 +35,7 @@ Install
 ```
 CSS and JS
 ```bash
-    python minifit_css.py bootstrap.css script.js ...(more css files if you want)
+    python minifit.py bootstrap.css script.js ...(more css files if you want)
 ```
 
 The result: it will generate a bootstrap.min.css file in the same directory "minifit-with-python" file.
